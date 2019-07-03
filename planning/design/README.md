@@ -4,6 +4,7 @@
 If you need help with writing Github-flavoured markdown, check out these guides:
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 - <https://guides.github.com/features/mastering-markdown/>
+- <https://agea.github.io/tutorial.md/>
 
 ----
 

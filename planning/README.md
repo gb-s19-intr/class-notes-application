@@ -10,7 +10,7 @@ Design process notes.
 | 02 | July 10th, 2019 | [2019-07-10.md](notes/19-07-10.md) |
 
 
-## Schedule
+## Scheduled To-Do
 
 ### Week 01
 
