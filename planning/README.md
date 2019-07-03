@@ -76,3 +76,15 @@ As a student, I want to be able to:
 
 - Syncing to cloud, being able to access from different devices (live update?) 
 - Collaborating, being able to share and send notes, as well as being able to work on same note at the same time
+
+
+## Afternoon
+
+1. Re-download VS Code
+2. Get the code/project again
+  - School computers: clone the repo
+  - Personal computers: delete, clone the repo
+3. Continue wireframes
+4. Start HTML css prototype
+  - index.html: Dashboard
+  - notes.html: Notes Editor
