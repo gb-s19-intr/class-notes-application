@@ -19,7 +19,7 @@ Design process notes.
 2. Split into groups
 3. Group concept discussion, design and wireframing
 4. Create a Github "Organization" named for your project concept
-  - Small letters, `-` instead of spaces
+     - Small letters, `-` instead of spaces
 5. **Each group will "Fork" a version of this project**
      - Name the new repository `org-name.github.io` (where `org-name` is the name of your organization)
      - To be sure you don't get confused, delete the current version of this repo sitting on your local computer
