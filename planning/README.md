@@ -6,8 +6,8 @@ Design process notes.
 ## Weekly Notes
 | Week    | Date          | Notes |
 | ------- | ------------- | ----- |
-| 01 | July 3rd, 2019 | [2019-07-03.md](planning/notes/2019-07-03.md) |
-| 02 | July 10th, 2019 | [2019-07-10.md](planning/notes/2019-07-10.md) |
+| 01 | July 3rd, 2019 | [2019-07-03.md](notes/2019-07-03.md) |
+| 02 | July 10th, 2019 | [2019-07-10.md](notes/2019-07-10.md) |
 
 
 ## Schedule
