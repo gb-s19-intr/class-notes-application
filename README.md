@@ -47,11 +47,12 @@ As a student, I want to be able to:
 - Folders are not sufficiently prominent; it’s hard to see them; 
 - Not an easy way to connect appt notes to calendar
 
-### Group Right
 #### App Ideas:
 - No more static traditional folders, folders are dynamic and created from our tags; When we create a file, we add tags; The interface shows tags as dynamic folders that you can click to display documents with that particular tag
 - Inside each document, we mark off content and tag it with tags as well; when we search tags, we can view all tagged content and combine it into a new document with a button (if we want to)
 - We can select content and automaticlaly create an appointment in google calendar from it using tags
+
+### Group Right
 
 
 
