@@ -36,4 +36,24 @@ Notes taken in groups (9:15-9:45am)
 
 ### Group Right
 
+- The notes app will be robust, allowing different types of content in one note.
+  - Scanning/inserting an image
+  - Using the camera for photos + videos
+  - Being able to markup the content using the tools in the app
+  - Sketching: freehand sketches should be possible, with different tool options
+  - Free flowing, being able to fluently switch between different content through one note
 
+
+- Sketching in notes is very important
+- Ability to use pens, markers, and other tools
+  - Select tools and sizes, colour, etc.
+
+- Searchability of notes is important, using keywords, possibly tagging of notes (automagically???)
+  - Should be able to seach any word in the note and find it
+  - OCR 
+- Organizing of notes into clusters/folders --> also automagically???
+  - Could pull keywords from notes and match across other notes to find similarities and suggest groupings
+- Sorting and heirarchy of notes, and naming automatically (based off first line in note)
+
+- Syncing to cloud, being able to access from different devices (live update?) 
+- Collaborating, being able to share and send notes, as well as being able to work on same note at the same time
