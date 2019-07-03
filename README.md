@@ -32,8 +32,26 @@ Into two teams of three, discuss (and take notes) the needs for a student who is
 Notes taken in groups (9:15-9:45am)
 
 ### Group Left
+#### Needs:
+As a student, I want to be able to:
+- see my folders easily 
+- see the text content of my search results (not just the file names) 
+- be able to organize and search content by tags, both inside the content (to tag paragraphs); and outside (tag full document)
+- have the option to automatically combine related information together into a new folder or document 
+- have an easy way to add appointments and deadlines from notes into calendar
 
+#### Frustrations with current applications e.g., Google Calendar:
+- Getting lost and having a hard time organizing your notes; 
+- Having to manually combine related information from multiple documents;
+- When searching for a keyword, only see the file names; not the content;
+- Folders are not sufficiently prominent; it’s hard to see them; 
+- Not an easy way to connect appt notes to calendar
 
 ### Group Right
+#### App Ideas:
+- No more static traditional folders, folders are dynamic and created from our tags; When we create a file, we add tags; The interface shows tags as dynamic folders that you can click to display documents with that particular tag
+- Inside each document, we mark off content and tag it with tags as well; when we search tags, we can view all tagged content and combine it into a new document with a button (if we want to)
+- We can select content and automaticlaly create an appointment in google calendar from it using tags
+
 
 
