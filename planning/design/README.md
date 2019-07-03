@@ -39,4 +39,5 @@ An example of colours and fonts (delete or replace)
 Images and notes go here
 
 ![Git Branching and Merging](git-branching-and-merging.png "Git Branching and Merging")
+
 Delete or replace this example image.
