@@ -46,3 +46,25 @@ Design process notes.
      - Resolve any merge conflicts that arise as you go by deciding which version to keep. Remember that all code is still store in a commit within the branch itself, so there's no risk of overwriting code and not being able to retrieve it again later
      - Look for overlapping rules or style concepts and centralize them into `style.css`
      - Ensure the pages are linked together
+
+
+### Week 02
+
+#### In Class
+
+1. Update from the original course repository
+2. Merge all student branches to build the prototype + merge conflics + push to remote
+3. Test and write at least 3 Github "issues" per page
+4. Resolve any issues that pertain to your work
+5. Back together as a group:
+     - fetch any new changes made
+     - Determine a style guide and implement that into CSS in a new branch (one or many branches)
+     - Discuss any adjustments that need to be made
+     - Ensure all pages are now linking to eachother
+     - Merge any new branches together
+     - Everyone fetches and retests the application as a group
+6. Another round of "Issues"
+7. Resolve all issues (repeat above)
+8. Swap with the other group for comments
+9. Resolve all issues
+10. Present the current application prototype to the class
