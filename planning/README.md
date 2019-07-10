@@ -68,3 +68,18 @@ Design process notes.
 8. Swap with the other group for comments
 9. Resolve all issues
 10. Present the current application prototype to the class
+
+#### Homework (COMPLETE BEFORE NEXT CLASS!!!)
+
+1. Based on the feedback ("Issues" and in-class discussion), refine the application and make the necessary changes
+2. Continue to collaborate on ideas through Issues (so your iterative planning is available to me)
+3. Complete the visual prototype (HTML and CSS) based on the style guide developed as a team
+4. Draw a visulization of the data entities (Google Drawing is a quick tool, but use anything you're comfortable with) and the necessary fields for each. Show how the entities are connected to each other (through their keys) with connecting lines
+     - Keep the entity (table) names capitalized and singular (no "s" at the end)
+     - Also note tables that are not entities, but are used to connect two entities
+          - For example, "Tag" and "User" store their respective values, but if we wanted any one user to be able to favourite or colourize a tag for themselves only, we might consider a connecting table called "User_Tag" that can store that information and a link back to records in the respective entities.
+5. Creat a single `.js` file for each of the identified tables and store in a `/src/` subfolder named `/data`.
+6. Every member of the group is to add multiple sample records (Objects) to each of the tables (Arrays) and ensure that any connecting data required in other entities is also created. Start by creating a record in "User" that represents yourself.
+     - Be sure to make changes in a branch. Set at least 2 points between now and next class where one member will merge all of the branches together and test.
+     - To make merging easier, be sure you are always branching from the latest version of `master`.
+          - For example: Branch from a `master` to make changes to your UI using CSS, commit all changes and publish the branch when complete. Then when it's time to work on data files, go back to `master` and create a new branch (rather than branching from your UI branch, or continuing with that branch). ***GENERAL RULE:** One branch per feature/fix, each single branch is always branched from `master`.*
